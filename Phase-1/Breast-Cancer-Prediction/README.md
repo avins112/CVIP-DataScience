@@ -1,5 +1,5 @@
 # Breast Cancer Prediction 
-## Author: Ujjwal Rajput
+## Author: Avinash Govind Pal
 Dataset : https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 
 ---
